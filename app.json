@@ -20,10 +20,12 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "output": "static"
     },
-    "plugins": [
-      "expo-router"
-    ]
+    "experiments": {
+      "baseUrl": "/dating-app"
+    },
+    "plugins": ["expo-router"]
   }
 }
