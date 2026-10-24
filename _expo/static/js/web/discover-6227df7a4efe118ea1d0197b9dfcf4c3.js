@@ -1,1 +1,0 @@
-__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return o}});var n=r(d[0]),t=r(d[1]);function o(){return(0,t.jsx)(n.PlaceholderScreen,{description:"Discovering new corners of the room will live here.",icon:"\u2726",title:"Discover"})}},759,[807,6]);
